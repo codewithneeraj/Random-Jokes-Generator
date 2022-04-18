@@ -17,7 +17,7 @@ I have used an Api to fetch the jokes and than displayed the jokes on webpage ev
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://random-jokes-generator-peach.vercel.app/
 
 
 ### Built with
